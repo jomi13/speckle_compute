@@ -1,8 +1,7 @@
 # speckle_compute
 
 # Usage
-The project template to deploy a Speckle&lt;-->Rhino.Compute Workflow
-All of the documentation necessary to cook this cake.
+The project template to deploy a Speckle&lt;-->Rhino.Compute workflow and all of the documentation necessary to cook this cake.
 
 ![Speckle Compute.jpg](example/Speckle_Compute.jpg)
 
