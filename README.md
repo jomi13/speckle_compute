@@ -99,8 +99,8 @@ Use example.ghx as a template. Always save as `.ghx`
 2. Set `Receive_from_Compute` to Auto-Receive
 3. Send your geometry (with parameter information!) to `Send_to_Compute`
     
-    ![](https://github.com/jomi13/speckle_compute/blob/main/example/demo.gif)
-    
+    ![demo](https://user-images.githubusercontent.com/35776833/221257799-1e5a9deb-5c78-4e35-9a60-4a5f40c1779a.gif)
+
 ### Local Test
     
 You can use `ngrok`as a webhook mirror to your apps local address.
