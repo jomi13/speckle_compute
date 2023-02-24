@@ -44,7 +44,7 @@ Use example.ghx as a template. Always save as `.ghx`
 
 ### Python
 
-1. Clone base repo (dockerfile + [main.py](http://main.py) + fetch.py)
+1. Clone this repo
 2. Add your .ghx script
 3. Adapt [main.py](http://main.py) and fetch.py for the correct stream link + gHscript
 4. Generate requirements.txt
