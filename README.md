@@ -99,7 +99,7 @@ Use example.ghx as a template. Always save as `.ghx`
 2. Set `Receive_from_Compute` to Auto-Receive
 3. Send your geometry (with parameter information!) to `Send_to_Compute`
     
-    ![](https://github.com/Yspeckle_compute/examples/demo.gif)
+    ![](https://github.com/jomi13/speckle_compute/blob/main/example/demo.gif)
     
 ### Local Test
     
