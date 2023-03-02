@@ -105,5 +105,5 @@ Use example.ghx as a template. Always save as `.ghx`
     
 You can use `ngrok`as a webhook mirror to your apps local address.
     
-1. In terminal: `ngork http [http://0.0.0.0:8080](http://0.0.0.0:8080/)`
+1. In terminal: `ngork http http://0.0.0.0:8080
 2. Set your Speckle webhook URL as `http://<your-given-hash>.ngrok.io/webhook`
