@@ -94,8 +94,11 @@ Use example.ghx as a template. Always save as `.ghx`
 ### Revit
 
 1. Create the shared parameters that will be inputs to your gH definition. In this example:
-    1. xdir = `Float`
-    2. ydir = `Float`
+    1. xdir = `Number`
+    2. ydir = `Number`
+    
+2. Go to the parameter.txt file and copy the GUID values to the gH definition, replacing the ones that are set by default.
+3. If you had already deployed to fly, do it once again - `flyctl deploy`
 2. Set `Receive_from_Compute` to Auto-Receive
 3. Send your geometry (with parameter information!) to `Send_to_Compute`
     
