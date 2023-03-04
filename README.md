@@ -70,7 +70,7 @@ Use example.ghx as a template. Always save as `.ghx`
     1. pick app name
     2. choose region
 3. Make the changes to the newly created `fly.toml` :
-    1. `kill_signal = "SIGUSR1"
+    1. `kill_signal = "SIGUSR1"`
     2. `kill_timeout = 300`
     3. before `[env]`, place:
         1. `[build]
