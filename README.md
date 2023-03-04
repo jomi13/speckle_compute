@@ -46,7 +46,7 @@ Use example.ghx as a template. Always save as `.ghx`
 
 1. Clone this repo
 2. Add your .ghx script
-3. Adapt [main.py](http://main.py) and fetch.py for the correct stream link + gHscript
+3. Adapt main.py and fetch.py for the correct stream link + gHscript
 4. Generate requirements.txt
     1. `pip install pipreqs`
     2. `pipreqs <your-project-dir>`
@@ -59,7 +59,7 @@ Use example.ghx as a template. Always save as `.ghx`
     
     `brew install flyctl` (mac)
     
-    `iwr https://fly.io/install.ps1 -useb | iex (windows)`
+    `iwr https://fly.io/install.ps1 -useb | iex` (windows)
     
 2. Authenticate to your account: `flyctl auth login`
 
